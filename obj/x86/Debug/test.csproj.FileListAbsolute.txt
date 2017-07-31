@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\Zennolab\test\bin\Debug\test.exe
+E:\Matyukov\csharp\Zennolab\test\bin\Debug\test.pdb
+E:\Matyukov\csharp\Zennolab\test\obj\x86\Debug\test.exe
+E:\Matyukov\csharp\Zennolab\test\obj\x86\Debug\test.pdb
